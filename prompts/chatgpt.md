@@ -5,6 +5,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  |Criar um podcast contando a história por trás das músicas que fizeram grande sucesso mundial                                                |
+|  capa e logo | criar uma capa para colocar no site notion.so, 16:9 contendo uma cifra de musica clássica em cima de uma mesa com um fone de ouvido profissional de estúdio em cima de plano de fundo, contendo na frente uma logo centralizada a direita (a logo é um circulo contendo uma guitarra e a escrita "O melhor do Rock"), abaixo e acima da logo uma linha horizontal mais grossa e uma mais fina, acima da linha de baixo no meio adicionar o texto "Por trás de cada música existe uma história!!!"                                                |
+| conteúdo | quero saber a historia da musica Thriller do Michael JAckson |
 
